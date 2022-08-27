@@ -28,7 +28,7 @@ function Footer() {
 
           <div className="footer__three">
             <div className="footer__title">
-            <h3>| Buy 'n' Sell | 2022 | <a href="https://github.com/zsdorf/buy-n-sell">View Code</a> | </h3>
+            <h3>| ©️ Buy 'n' Sell | 2022 | All Rights Reserved |  <a href="https://github.com/zsdorf/buy-n-sell">View Code</a> | </h3>
             </div>
             <div className="footer__text">
             </div>
